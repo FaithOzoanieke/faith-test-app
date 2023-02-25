@@ -110,7 +110,7 @@ function CustomCard() {
       </SimpleGrid>
       <Pagination
         goToNextPage={goToNextPage}
-        goToPreviousPage={goToPreviouPage}
+        goToPreviousPage={goToPreviousPage}
       />
     </Box>
   );
